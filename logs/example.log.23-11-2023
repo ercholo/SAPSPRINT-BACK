@@ -1,0 +1,24 @@
+{"level":"mongodb","message":"Impresora 01ALAV102 pausada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-23T00:13:01.506Z"}
+{"level":"mongodb","message":"Impresora 01ALAV102 reanudada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-23T00:13:02.854Z"}
+{"level":"mongodb","message":"Actualizar trabajo impresora 01ALAV201 por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-23T07:13:07.562Z"}
+{"level":"mongodb","message":"Impresora 01ALAV201 pausada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-23T07:13:10.925Z"}
+{"level":"mongodb","message":"Impresora 01ALAV201 reanudada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-23T07:13:13.756Z"}
+{"level":"mongodb","message":"Actualizar trabajo impresora 17ALGVO01 por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-23T07:24:38.876Z"}
+{"level":"mongodb","message":"Impresora 08ALAV101 pausada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-23T07:24:50.540Z"}
+{"level":"mongodb","message":"Impresora 08ALAV101 reanudada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-23T07:24:52.343Z"}
+{"level":"mongodb","message":"Actualizar trabajo impresora 04ALJEF02 por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-23T07:26:06.922Z"}
+{"level":"mongodb","message":"Actualizar trabajo impresora 04COVEN01 por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-23T07:26:11.185Z"}
+{"level":"info","message":"Iniciando servicio SAPSPRINT2-BACK-DEV","timestamp":"2023-11-23T08:05:00.175Z"}
+{"level":"info","message":"Servidor corriendo en puerto 16665","timestamp":"2023-11-23T08:05:00.181Z"}
+{"level":"mongodb","message":"Actualizar trabajo impresora 17ADCOM01 por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-23T08:05:15.745Z"}
+{"level":"mongodb","message":"Actualizar trabajo impresora 06ALAV102 por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-23T08:22:30.044Z"}
+{"level":"mongodb","message":"Impresora 06ALAV102 pausada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-23T08:22:32.888Z"}
+{"level":"mongodb","message":"Impresora 06ALAV102 reanudada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-23T08:22:34.881Z"}
+{"level":"mongodb","message":"El usuario gregorio.sanchez@hefame.es ha desviado la impresora 06ALAV102 por la 06ALJEF01 en el server sapsprint","timestamp":"2023-11-23T08:22:42.702Z"}
+{"level":"mongodb","message":"El usuario gregorio.sanchez@hefame.es ha devuelto a su ip original la impresora 06ALAV102","timestamp":"2023-11-23T08:22:53.912Z"}
+{"level":"mongodb","message":"El usuario gregorio.sanchez@hefame.es ha desviado la impresora 17ALAV101 por la 17ALAV102 en el server sapsprint2","timestamp":"2023-11-23T08:23:28.054Z"}
+{"level":"mongodb","message":"El usuario gregorio.sanchez@hefame.es ha devuelto a su ip original la impresora 17ALAV101","timestamp":"2023-11-23T08:23:48.861Z"}
+{"level":"mongodb","message":"Actualizar trabajo impresora 15COGER01 por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-23T09:01:32.265Z"}
+{"level":"mongodb","message":"Actualizar trabajo impresora 08ALAV101 por el usuario evaristo.zomeno@hefame.es","timestamp":"2023-11-23T09:13:32.687Z"}
+{"level":"mongodb","message":"Impresora 06ALEXP01 pausada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-23T10:32:01.203Z"}
+{"level":"mongodb","message":"Impresora 06ALEXP01 reanudada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-23T10:32:03.528Z"}

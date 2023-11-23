@@ -1,0 +1,61 @@
+{"level":"mongodb","message":"Actualizar trabajo impresora 06ADCOM01 por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T08:41:17.186Z"}
+{"level":"mongodb","message":"Actualizar trabajo impresora 06ADCOM01 por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T08:41:19.840Z"}
+{"level":"mongodb","message":"Actualizar trabajo impresora 06ADCOM01 por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T09:42:48.555Z"}
+{"level":"info","message":"Iniciando servicio SAPSPRINT2-BACK-DEV","timestamp":"2023-11-16T12:45:06.442Z"}
+{"level":"info","message":"Servidor corriendo en puerto 16665","timestamp":"2023-11-16T12:45:06.449Z"}
+{"level":"info","message":"Iniciando servicio SAPSPRINT2-BACK-DEV","timestamp":"2023-11-16T12:45:55.093Z"}
+{"level":"info","message":"Servidor corriendo en puerto 16665","timestamp":"2023-11-16T12:45:55.099Z"}
+{"level":"info","message":"Iniciando servicio SAPSPRINT2-BACK-DEV","timestamp":"2023-11-16T12:46:41.292Z"}
+{"level":"info","message":"Servidor corriendo en puerto 16665","timestamp":"2023-11-16T12:46:41.299Z"}
+{"level":"info","message":"Iniciando servicio SAPSPRINT2-BACK-DEV","timestamp":"2023-11-16T13:06:05.026Z"}
+{"level":"info","message":"Servidor corriendo en puerto 16665","timestamp":"2023-11-16T13:06:05.033Z"}
+{"level":"info","message":"Iniciando servicio SAPSPRINT2-BACK-DEV","timestamp":"2023-11-16T13:06:21.566Z"}
+{"level":"info","message":"Servidor corriendo en puerto 16665","timestamp":"2023-11-16T13:06:21.572Z"}
+{"level":"info","message":"Iniciando servicio SAPSPRINT2-BACK-DEV","timestamp":"2023-11-16T13:06:40.505Z"}
+{"level":"info","message":"Servidor corriendo en puerto 16665","timestamp":"2023-11-16T13:06:40.511Z"}
+{"level":"mongodb","message":"Impresora 06ADCOM01 reanudada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T13:06:43.753Z"}
+{"level":"mongodb","message":"Impresora 06ADCOM01 pausada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T13:06:46.018Z"}
+{"level":"mongodb","message":"Impresora 06ADCOM01 pausada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T13:07:14.165Z"}
+{"level":"mongodb","message":"Impresora 06ADCOM01 reanudada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T13:07:19.465Z"}
+{"level":"mongodb","message":"Impresora 06ADCOM01 reanudada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T13:07:22.233Z"}
+{"level":"mongodb","message":"Impresora 06ADCOM01 pausada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T13:07:42.348Z"}
+{"level":"mongodb","message":"Impresora 06ADCOM01 pausada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T13:07:52.163Z"}
+{"level":"info","message":"Iniciando servicio SAPSPRINT2-BACK-DEV","timestamp":"2023-11-16T13:08:21.763Z"}
+{"level":"info","message":"Servidor corriendo en puerto 16665","timestamp":"2023-11-16T13:08:21.770Z"}
+{"level":"mongodb","message":"Impresora 06ADCOM01 pausada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T13:08:24.084Z"}
+{"level":"info","message":"Iniciando servicio SAPSPRINT2-BACK-DEV","timestamp":"2023-11-16T13:08:38.932Z"}
+{"level":"info","message":"Servidor corriendo en puerto 16665","timestamp":"2023-11-16T13:08:38.938Z"}
+{"level":"mongodb","message":"Impresora 06ADCOM01 pausada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T13:08:40.730Z"}
+{"level":"mongodb","message":"Impresora 06ADCOM01 pausada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T13:12:07.088Z"}
+{"level":"mongodb","message":"Impresora 06ADCOM01 pausada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T13:15:59.233Z"}
+{"level":"info","message":"Iniciando servicio SAPSPRINT2-BACK-DEV","timestamp":"2023-11-16T13:16:36.665Z"}
+{"level":"info","message":"Servidor corriendo en puerto 16665","timestamp":"2023-11-16T13:16:36.672Z"}
+{"level":"info","message":"Iniciando servicio SAPSPRINT2-BACK-DEV","timestamp":"2023-11-16T13:16:52.641Z"}
+{"level":"info","message":"Servidor corriendo en puerto 16665","timestamp":"2023-11-16T13:16:52.648Z"}
+{"level":"info","message":"Iniciando servicio SAPSPRINT2-BACK-DEV","timestamp":"2023-11-16T13:17:01.222Z"}
+{"level":"info","message":"Servidor corriendo en puerto 16665","timestamp":"2023-11-16T13:17:01.231Z"}
+{"level":"info","message":"Iniciando servicio SAPSPRINT2-BACK-DEV","timestamp":"2023-11-16T13:17:16.711Z"}
+{"level":"info","message":"Servidor corriendo en puerto 16665","timestamp":"2023-11-16T13:17:16.718Z"}
+{"level":"info","message":"Iniciando servicio SAPSPRINT2-BACK-DEV","timestamp":"2023-11-16T13:17:23.520Z"}
+{"level":"info","message":"Servidor corriendo en puerto 16665","timestamp":"2023-11-16T13:17:23.526Z"}
+{"level":"info","message":"Iniciando servicio SAPSPRINT2-BACK-DEV","timestamp":"2023-11-16T13:29:44.215Z"}
+{"level":"info","message":"Servidor corriendo en puerto 16665","timestamp":"2023-11-16T13:29:44.222Z"}
+{"level":"info","message":"Iniciando servicio SAPSPRINT2-BACK-DEV","timestamp":"2023-11-16T13:31:33.778Z"}
+{"level":"info","message":"Servidor corriendo en puerto 16665","timestamp":"2023-11-16T13:31:33.785Z"}
+{"level":"info","message":"Iniciando servicio SAPSPRINT2-BACK-DEV","timestamp":"2023-11-16T13:31:57.347Z"}
+{"level":"info","message":"Servidor corriendo en puerto 16665","timestamp":"2023-11-16T13:31:57.354Z"}
+{"level":"info","message":"Iniciando servicio SAPSPRINT2-BACK-DEV","timestamp":"2023-11-16T13:33:05.040Z"}
+{"level":"info","message":"Servidor corriendo en puerto 16665","timestamp":"2023-11-16T13:33:05.047Z"}
+{"level":"info","message":"Iniciando servicio SAPSPRINT2-BACK-DEV","timestamp":"2023-11-16T13:50:48.701Z"}
+{"level":"info","message":"Servidor corriendo en puerto 16665","timestamp":"2023-11-16T13:50:48.707Z"}
+{"level":"mongodb","message":"Actualizar trabajo impresora 06ADCOM01 por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T14:06:27.754Z"}
+{"level":"mongodb","message":"Actualizar trabajo impresora 06ADCOM01 por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T14:06:56.884Z"}
+{"level":"mongodb","message":"Actualizar trabajo impresora 06ALAV101 por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T14:07:03.830Z"}
+{"level":"mongodb","message":"Actualizar trabajo impresora 16ALJEF01 por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T14:07:32.028Z"}
+{"level":"info","message":"Iniciando servicio SAPSPRINT2-BACK-DEV","timestamp":"2023-11-16T14:08:00.871Z"}
+{"level":"info","message":"Servidor corriendo en puerto 16665","timestamp":"2023-11-16T14:08:00.878Z"}
+{"level":"mongodb","message":"Actualizar trabajo impresora 16ALAV101 por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T14:08:09.188Z"}
+{"level":"mongodb","message":"Impresora 16ALAV101 pausada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T14:08:25.917Z"}
+{"level":"mongodb","message":"Impresora 16ALAV101 reanudada por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T14:08:41.401Z"}
+{"level":"mongodb","message":"El usuario gregorio.sanchez@hefame.es ha desviado la impresora 16ALAV101 por la 16ALAV102","timestamp":"2023-11-16T14:08:49.313Z"}
+{"level":"mongodb","message":"Actualizar trabajo impresora 12ALAV101 por el usuario gregorio.sanchez@hefame.es","timestamp":"2023-11-16T17:06:47.183Z"}
