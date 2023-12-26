@@ -32,7 +32,7 @@ app.use(express.json());
 
 app.use(sessionMiddle);
 
-app.use( keycloak.middleware() );
+app.use(keycloak.middleware());
 
 // console.log(keycloak.getConfig());
 
@@ -42,6 +42,6 @@ app.use('/impresoras', keycloak.protect(), router);
 //Escuchar peticiones
 app.listen(process.env.PORT, () => {
 
-    logger.log('info',`Servidor corriendo en puerto ${process.env.PORT}`)
-        
+    logger.log('info', `Servidor corriendo en puerto ${process.env.PORT}`)
+
 });
