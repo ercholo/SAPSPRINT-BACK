@@ -33,7 +33,9 @@ export const desviarImpresoraOriginal = (printer, server) => {
             //Busca en el stdout si ha realizado la execución de manera correcta y la devuelvo.
             if (stdout.match(regEnSuSitioOriginal)) {
                 ok = true
-            } else { ok = false }
+            } else { 
+                ok = "error"
+            }
 
             resolve(
                 {

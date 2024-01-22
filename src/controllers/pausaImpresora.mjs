@@ -6,7 +6,6 @@ let ok = Boolean;
 export const pausar = (printer, server) => {
 
     return new Promise((resolve, reject) => {
-        console.log(printer)
 
         exec(`cscript prnqctl.vbs -z -s ${server} -p ${printer}`, { cwd: 'C:\\Windows\\System32\\Printing_Admin_Scripts\\es-ES' }, (error, stdout, stderr) => {
 
@@ -20,7 +19,7 @@ export const pausar = (printer, server) => {
             //Si la impresora devuelve Correcto entontes pusa = true
             if (stdout.match(regexCorrecto)) {
                 ok = true
-            } else { ok = false }
+            } else { ok = "error" }
 
             resolve(
                 {

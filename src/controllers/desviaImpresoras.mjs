@@ -34,7 +34,7 @@ export const desviarImpresora = (impresoraDesviada, impresoraDestino, server) =>
             if (stdout.match(regIsDesviada)) {
                 ok = true
             } else {
-                ok = false;
+                ok = "error"
             }
 
             resolve(

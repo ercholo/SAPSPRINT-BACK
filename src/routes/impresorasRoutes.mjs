@@ -50,7 +50,7 @@ router.get('/:nombreImpresora/:server', async (req, res = response) => {
 });
 
 router.get('/:nombreImpresora/:server/pausa', async (req, res = response) => {
-    
+
     let nombreImpresora = req.params.nombreImpresora;
     let server = req.params.server;
 
@@ -106,9 +106,9 @@ router.get('/:nombreImpresoraDesviada/:nombreImpresoraDestino/:server/desviar', 
             level: 'mongodb',
             message: `El usuario ${req.kauth.grant.access_token.content.email} ha desviado la impresora ${req.params.nombreImpresoraDesviada} por la ${req.params.nombreImpresoraDestino} en el server ${req.params.server}`
         }
-    ); 
+    );
 
-    let request = desviarImpresora(req.params.nombreImpresoraDesviada, req.params.nombreImpresoraDestino, req.params.server )
+    let request = desviarImpresora(req.params.nombreImpresoraDesviada, req.params.nombreImpresoraDestino, req.params.server)
         .then((response) => res.json(response))
         .catch((error) => {
             res.status(500).json({ error: error ? error.message : "Se ha ido a la puta" });
@@ -125,12 +125,12 @@ router.get('/:nombreImpresora/:server/desviarImpresoraOriginal', async (req, res
             level: 'mongodb',
             message: `El usuario ${req.kauth.grant.access_token.content.email} ha devuelto a su ip original la impresora ${nombreImpresora}`
         }
-    ); 
+    );
 
     let request = desviarImpresoraOriginal(nombreImpresora, server)
         .then((response) => res.json(response))
         .catch((error) => {
-            res.status(500).json({ error: error ? error.message : "Se ha ido a la puta"  });
+            res.status(500).json({ error: error ? error.message : "Se ha ido a la puta" });
         })
 });
 
@@ -144,7 +144,7 @@ router.get('/:nombreImpresora/:server/pagPrueba', async (req, res = response) =>
             level: 'mongodb',
             message: `El usuario ${req.kauth.grant.access_token.content.email} ha impreso una página de prueba por ${nombreImpresora}`
         }
-    ); 
+    );
 
     let request = imprimirPaginaPrueba(nombreImpresora, server)
         .then((response) => res.json(response))

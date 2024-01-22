@@ -19,7 +19,7 @@ export const reanudar = (printer, server) => {
             //Si la impresora devuelve Correcto entontes pusa = true
             if (stdout.match(regexCorrecto)) {
                 ok = true
-            } else { ok = false }
+            } else { ok = "error" }
 
             resolve(
                 {
